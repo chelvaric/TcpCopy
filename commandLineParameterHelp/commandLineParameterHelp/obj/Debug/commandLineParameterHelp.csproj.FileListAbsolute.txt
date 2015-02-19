@@ -1,0 +1,8 @@
+C:\Users\wouter\Documents\GitHub\TcpDumper\commandLineParameterHelp\commandLineParameterHelp\bin\Debug\commandLineParameterHelp.exe.config
+C:\Users\wouter\Documents\GitHub\TcpDumper\commandLineParameterHelp\commandLineParameterHelp\bin\Debug\commandLineParameterHelp.exe
+C:\Users\wouter\Documents\GitHub\TcpDumper\commandLineParameterHelp\commandLineParameterHelp\bin\Debug\commandLineParameterHelp.pdb
+C:\Users\wouter\Documents\GitHub\TcpDumper\commandLineParameterHelp\commandLineParameterHelp\bin\Debug\CommandLine.dll
+C:\Users\wouter\Documents\GitHub\TcpDumper\commandLineParameterHelp\commandLineParameterHelp\bin\Debug\CommandLine.xml
+C:\Users\wouter\Documents\GitHub\TcpDumper\commandLineParameterHelp\commandLineParameterHelp\obj\Debug\commandLineParameterHelp.csprojResolveAssemblyReference.cache
+C:\Users\wouter\Documents\GitHub\TcpDumper\commandLineParameterHelp\commandLineParameterHelp\obj\Debug\commandLineParameterHelp.exe
+C:\Users\wouter\Documents\GitHub\TcpDumper\commandLineParameterHelp\commandLineParameterHelp\obj\Debug\commandLineParameterHelp.pdb
