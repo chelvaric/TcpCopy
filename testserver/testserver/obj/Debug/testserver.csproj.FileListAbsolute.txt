@@ -1,0 +1,6 @@
+c:\users\wouter\documents\visual studio 2013\Projects\testserver\testserver\bin\Debug\testserver.exe.config
+c:\users\wouter\documents\visual studio 2013\Projects\testserver\testserver\bin\Debug\testserver.exe
+c:\users\wouter\documents\visual studio 2013\Projects\testserver\testserver\bin\Debug\testserver.pdb
+c:\users\wouter\documents\visual studio 2013\Projects\testserver\testserver\obj\Debug\testserver.csprojResolveAssemblyReference.cache
+c:\users\wouter\documents\visual studio 2013\Projects\testserver\testserver\obj\Debug\testserver.exe
+c:\users\wouter\documents\visual studio 2013\Projects\testserver\testserver\obj\Debug\testserver.pdb
